@@ -2,7 +2,7 @@
 from setuptools import setup
 
 setup(
-    name="tap-shopify",
+    name="tap-shopify-velocity",
     version="1.3.3",
     description="Singer.io tap for extracting Shopify data",
     author="Stitch",
